@@ -1,6 +1,7 @@
 # Walmart Sales Analysis
 
 **Intern ID:** CITS8439 | **Author:** Nithyashree S
+
 End-to-end analysis of Walmart weekly sales across 45 stores: Excel cleaning, Python EDA, and a Power BI dashboard.
 
 ## Goal
